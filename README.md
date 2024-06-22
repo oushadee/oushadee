@@ -12,7 +12,7 @@
  <p align="center"> <a href="https://oushadee-senanayake.web.app">Personal Portfolio Website</a></p>
  <p align="center"> <a href="https://github.com/oushadee/Pharmacy-Management-System">Pharmacy Management System</a></p>
  <p align="center"> <a href="https://github.com/oushadee/SkinCare-Product-Website">Skincare Product Website</a></p>
- <p align="center"> <a href="https://github.com/oushadee/Purchase-Order-System">Purchase Order System</a></p>
+ <p align="center"> <a href="https://github.com/oushadee/Purchasing-Order-System">Purchase Order System</a></p>
 
 <br>
 <br>
